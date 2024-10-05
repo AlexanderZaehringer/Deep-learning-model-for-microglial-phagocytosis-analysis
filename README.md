@@ -6,4 +6,5 @@ Provided files in the repository:
 
 The provided neural network facilitates the usage of Olympus ScanR systems in live cell imaging.
 The neural network will be uploaded soon.
-Follow this paper for the use of the deep learning model: (coming soon)
+Validation and description of the deep learning model is provided in: Zähringer et al. (submitted)
+Instructions/extensive protocol on the usage of the neural network in phagocytosis assays is provided in: Zähringer et al. (submitted)
