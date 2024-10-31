@@ -1,6 +1,9 @@
 # Deep-learning-model-for-microglial-phagocytosis-analysis
 
-COMING SOON (Manuscript submitted)
+(Manuscript under revision)
+
+The neural network repository is provided on Mendely Data:
+Zähringer, Alexander (2024), “Enhancing microglial phagocytosis analysis through deep learning: A U-Net based approach”, Mendeley Data, V1, doi: 10.17632/czh96my8cf.1
 
 Provided files in the repository:
   - Neural Network: ready-to-use, needs to be imported in Olympus ScanR Analysis software via AI -> Manage neural networks -> Import
